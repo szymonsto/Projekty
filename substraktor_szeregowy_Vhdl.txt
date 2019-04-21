@@ -1,0 +1,59 @@
+--Substraktor szeregowy
+
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date: 17.12.2018 11:40:23
+-- Design Name: 
+-- Module Name: subszer - Behavioral
+-- Project Name: 
+-- Target Devices: 
+-- Tool Versions: 
+-- Description: 
+-- 
+-- Dependencies: 
+-- 
+-- Revision:
+-- Revision 0.01 - File Created
+-- Additional Comments:
+-- 
+----------------------------------------------------------------------------------
+
+
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use ieee.std_logic_unsigned.all;
+
+entity subszer is
+    Port ( A : in STD_LOGIC;
+           B : in STD_LOGIC;
+           clk : in STD_LOGIC;
+           Q : out STD_LOGIC_vector(4 downto 0));
+end subszer;
+
+architecture Behavioral of subszer is
+
+signal ain : STD_LOGIC_vector(3 downto 0);
+
+signal bin : STD_LOGIC_vector(3 downto 0);
+
+begin
+
+process(clk)
+begin
+    if rising_edge(clk) then
+        
+        ain(3 downto 0) <= ain(2 downto 0) & A;
+        
+        bin(3 downto 0) <= bin(2 downto 0) & B;
+        
+    end if;
+    
+    end process;
+    
+    
+    Q <=  ('0' & ((not bin) + '1')) + ('0' & ain);
+
+
+end Behavioral;
