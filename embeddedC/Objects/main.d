@@ -1,0 +1,17 @@
+.\objects\main.o: main.c
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: tsi.h
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: MMA8451.h
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: uart0.h
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: iic.h
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: led.h
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: pit.h
+.\objects\main.o: MKL05Z4.h
+.\objects\main.o: buzzer.h
+.\objects\main.o: MKL05Z4.h

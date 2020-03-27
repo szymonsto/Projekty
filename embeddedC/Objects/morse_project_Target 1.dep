@@ -1,0 +1,61 @@
+Dependencies for Project 'morse_project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\buzzer.c)(0x5E29D143)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\buzzer.o --omf_browse .\objects\buzzer.crf --depend .\objects\buzzer.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (buzzer.h)(0x5E29D177)
+I (uart0.h)(0x5E20CF89)
+F (.\buzzer.h)(0x5E29D177)()
+F (.\led.c)(0x5E28F137)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (led.h)(0x5E26041E)
+F (.\led.h)(0x5E26041E)()
+F (.\main.c)(0x5E29CFB7)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (tsi.h)(0x5E29D11F)
+I (MMA8451.h)(0x5E29D7BB)
+I (uart0.h)(0x5E20CF89)
+I (iic.h)(0x5E28C8FF)
+I (led.h)(0x5E26041E)
+I (pit.h)(0x5E270628)
+I (buzzer.h)(0x5E29D177)
+F (.\pit.c)(0x5E29CFF4)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\pit.o --omf_browse .\objects\pit.crf --depend .\objects\pit.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (pit.h)(0x5E270628)
+I (led.h)(0x5E26041E)
+I (uart0.h)(0x5E20CF89)
+I (buzzer.h)(0x5E29D177)
+F (.\pit.h)(0x5E270628)()
+F (.\tsi.c)(0x5E29D09A)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\tsi.o --omf_browse .\objects\tsi.crf --depend .\objects\tsi.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (tsi.h)(0x5E29D11F)
+F (.\tsi.h)(0x5E29D11F)()
+F (.\uart0.c)(0x5E29D0E3)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\uart0.o --omf_browse .\objects\uart0.crf --depend .\objects\uart0.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (uart0.h)(0x5E20CF89)
+F (.\uart0.h)(0x5E20CF89)()
+F (.\MKL05Z4.h)(0x5E28F518)()
+F (.\MMA8451.c)(0x5E29D829)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\mma8451.o --omf_browse .\objects\mma8451.crf --depend .\objects\mma8451.d)
+I (MMA8451.h)(0x5E29D7BB)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (iic.h)(0x5E28C8FF)
+F (.\MMA8451.h)(0x5E29D7BB)()
+F (.\iic.c)(0x5E28C98E)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\iic.o --omf_browse .\objects\iic.crf --depend .\objects\iic.d)
+I (MKL05Z4.h)(0x5E28F518)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (iic.h)(0x5E28C8FF)
+F (.\iic.h)(0x5E28C8FF)()
+F (RTE\Device\MKL05Z32xxx4\startup_MKL05Z4.s)(0x55FBCAE8)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "MKL05Z32xxx4 SETA 1"--list .\listings\startup_mkl05z4.lst --xref -o .\objects\startup_mkl05z4.o --depend .\objects\startup_mkl05z4.d)
+F (RTE\Device\MKL05Z32xxx4\system_MKL05Z4.c)(0x55FBCAE8)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL05Z32xxx4-o .\objects\system_mkl05z4.o --omf_browse .\objects\system_mkl05z4.crf --depend .\objects\system_mkl05z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL05Z4.h)(0x55FBCAE8)
+I (C:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D25F326)
+I (C:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25F326)
+I (C:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25F326)
+I (C:\Users\HP\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25F326)
+I (C:\Users\HP\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)

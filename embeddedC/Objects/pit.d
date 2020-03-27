@@ -1,0 +1,11 @@
+.\objects\pit.o: pit.c
+.\objects\pit.o: MKL05Z4.h
+.\objects\pit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pit.o: pit.h
+.\objects\pit.o: MKL05Z4.h
+.\objects\pit.o: led.h
+.\objects\pit.o: MKL05Z4.h
+.\objects\pit.o: uart0.h
+.\objects\pit.o: MKL05Z4.h
+.\objects\pit.o: buzzer.h
+.\objects\pit.o: MKL05Z4.h
