@@ -1,0 +1,3 @@
+242|kuglan|KuglanKompjuters|352|kuglan$nienormalny%sajmonsis$scalaki%###|kuglan$Piotr%sajmonsis$Szymon%###|0|0|pusta_mapa_zgod|0|0|maly|end|
+255|test1|Firma1|0|wspolnik1$haslo1%wspolnik2$haslo2%###|wspolnik1$szymon%wspolnik2$michal%###|0|0|pusta_mapa_zgod|0|0|brak wiadomosci|end|
+221|123|aaa|0|fff$1234%qqq$12345%###|fff$ggg%qqq$www%###|0|0|fff$1%###|1000|1|brak wiadomosci|end|

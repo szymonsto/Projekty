@@ -1,0 +1,4 @@
+111|88786970|michal|szczepaniak|1.00075e+06|1000|ss|end|
+157|123|aaa|sss|1000|0|brak wiadomosci|end|
+191|123|aaa|sss|0|0|brak wiadomosci|end|
+149|123|aaa|sss|0|0|brak wiadomosci|end|
